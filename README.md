@@ -9,3 +9,5 @@
 
 [Лекция 4](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20191007_matplotlib%2Bseaborn%2Bipywidgets.ipynb) - использование matplotlib и seaborn для научной графики, создание интерактивных интерфейсов с использованием ipywidgets.
 
+[Лекция 5](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20191014_design_patterns.ipynb) - Шаблоны проектирования: синглетон, фасад, абстрактная фабрика, состояние, строитель.
+
