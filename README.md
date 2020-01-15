@@ -17,4 +17,4 @@
 
 ## Весенний семестр
 
-[Лекция 1](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20190909.ipynb) - Основы создания классов, морфологический анализ.
+[Лекция 1](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20200115_multiprocessing.ipynb) - Основы параллельной обработки данных.
