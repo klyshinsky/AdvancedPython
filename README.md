@@ -18,3 +18,6 @@
 ## Весенний семестр
 
 [Лекция 1](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20200115_multiprocessing.ipynb) - Основы параллельной обработки данных.
+
+[Лекция 2](https://github.com/klyshinsky/AdvancedPython/blob/master/lecture_20200408_Optimization_Methods.ipynb) - Основы теории оптимизации.
+
